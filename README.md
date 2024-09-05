@@ -1,2 +1,2 @@
 # datavis-first
-Eerste les datavis, basiskennis
+![foto van Guido](betah.png)
